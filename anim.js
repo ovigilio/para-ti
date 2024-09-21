@@ -4,9 +4,9 @@ var lyrics = document.querySelector("#lyrics");
 
 // Array de objetos que contiene cada línea y su tiempo de aparición en segundos
 var lyricsData = [
-  { text: "At the time", time: 15 },
-  { text: "The whisper of birds", time: 18 },
-  { text: "Lonely before the sun cried", time: 27 },
+  { text: "You're the light, you're the night", time: 15 },
+  { text: "You're the colour of my blood", time: 18 },
+  { text: "You're the cure, you're the pain", time: 27 },
   { text: "Fell from the sky", time: 32 },
   { text: "Like water drops", time: 33 },
   { text: "Where I'm now? I don't know why", time: 41 },
