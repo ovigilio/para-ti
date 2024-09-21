@@ -5,7 +5,7 @@ var lyrics = document.querySelector("#lyrics");
 // Array de objetos que contiene cada línea y su tiempo de aparición en segundos
 var lyricsData = [
   { text: "Mi amor este dia tan especial", time: 15 },
-  { text: "quiro decirte que te amo mucho,", time: 18 },
+  { text: "quiero decirte que te amo mucho,", time: 18 },
   { text: "por eso, espero que te guste este detalle", time: 27 },
   { text: "con cariño para ti. y como hoy", time: 32 },
   { text: "Inicia la primavera, quiero", time: 33 },
